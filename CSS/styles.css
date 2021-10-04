@@ -1,0 +1,107 @@
+
+
+#intro {
+ background-image:url("../IMG/camille-orgel-SKcTKYNRvHY-unsplash.jpg");
+ background-size: cover;
+ height: 1000px;
+ padding-top:80px;
+ text-align: center;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+
+.btn{
+    margin-left:10px;
+}
+
+
+.form-header{
+text-align: center;
+color:#cf1717;
+}
+
+
+
+#nav{
+    color:#cf1717;
+}
+
+html {
+    scroll-padding-top: 70px; /* height of sticky header */
+  }
+
+  
+
+#work {
+text-align: center;
+height: min-content;
+}
+
+.card-title{
+    color: black;
+    
+}
+
+.card-text{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+height: auto;
+}
+
+.Work-Header{
+text-align: center;
+color:#cf1717;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  background-color: white;
+  border-radius: 30%;
+  border: 1px solid black;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #cf1717;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: #cf1717;
+}
+
+.slide-1{
+position: relative;
+color: white;
+left:34px;
+}
+ 
+
+.social{
+    margin: 0 auto;
+    text-align: center;
+    color: #cf1717;
+  }
+
+  .end{
+      text-align: center;
+      color: #cf1717;
+      position: relative;
+      top:8px;
+  }
+
+  .info{
+  text-align: center;
+  color: #cf1717;
+  }
