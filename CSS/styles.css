@@ -51,6 +51,11 @@ height: min-content;
   overflow:visible;
 }
 
+.biobreaker {
+  clear: both;
+  visibility: hidden;
+}
+
 .container {
 height: auto;
 }
