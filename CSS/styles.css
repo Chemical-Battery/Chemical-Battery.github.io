@@ -72,9 +72,7 @@ color:#cf1717;
   width: 100px;
   outline: black;
   background-size: 100%, 100%;
-  background-color: white;
   border-radius: 30%;
-  border: 1px solid black;
   background-image: none;
 }
 
@@ -91,11 +89,23 @@ color:#cf1717;
   color: #cf1717;
 }
 
+.slide-2-title{
+  color: black;
+  position: relative;
+  right: 150px
+}
+
 .slide-1{
 position: relative;
 color: white;
 left:34px;
 }
+
+.slide-2{
+  position: relative;
+  color: black;
+  right:170px;
+  }
  
 
 .social{
