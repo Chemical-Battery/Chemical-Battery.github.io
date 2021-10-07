@@ -92,7 +92,7 @@ color:#cf1717;
 .slide-2-title{
   color: black;
   position: relative;
-  right: 150px
+  right: 160px
 }
 
 .slide-1{
@@ -104,7 +104,17 @@ left:34px;
 .slide-2{
   position: relative;
   color: black;
-  right:170px;
+  right:185px;
+  }
+
+  .slide-3-title{
+    position: relative;
+    right:170px
+  }
+
+  .slide-3{
+    position: relative;
+    right:170px;
   }
  
 
